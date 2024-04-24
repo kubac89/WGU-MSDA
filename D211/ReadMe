@@ -13,3 +13,10 @@ The graduate explores data acquisition.
 
 - Advanced SQL Operations
 The graduate applies advanced SQL operations to integrate multiple data sources.
+
+This project uses the same datasets as D210: Representation and Reporting. The conclusions drawn from the data were very similar. 
+The data for D210 was cleaned and prepped in ProstgreSQL instead of Jupyter Notebook,
+and the Tableau dashboard was created by connecting the SQL database to Tableau instead of using static Excel files for data sources. 
+
+I was unable to load my dashboard to Tableau public due to the large file size. Instructions for installing the dashboard and the required ZIP files 
+are included in the submission.
